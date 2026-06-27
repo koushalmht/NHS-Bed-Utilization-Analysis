@@ -9,7 +9,14 @@ The project follows a modern analytics workflow:
 
 Raw Data --> SQL Data Cleaning --> Star Schema Data Model --> SQL Business Analysis --> Power BI Dashboard
 
-Dashboard Preview
+Dashboard Preview:
+
+Page 1: <img width="1507" height="846" alt="Executive_Overview" src="https://github.com/user-attachments/assets/afd4af61-65b5-4f28-a5b8-e4dedab44d88" />
+Page 2: <img width="1497" height="840" alt="NHS_Board_Analysis" src="https://github.com/user-attachments/assets/aaab12e0-ad97-4bca-8e38-61e2e047dcb6" />
+Page 3: <img width="1497" height="836" alt="Specialty   Resource Allocation" src="https://github.com/user-attachments/assets/47bc801a-86f9-463a-b8ee-2247f45cbd52" />
+
+
+
 
 Business Questions
 
